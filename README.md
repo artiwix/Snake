@@ -1,1 +1,1 @@
-Well known game Snake
+Well known game, Snake
